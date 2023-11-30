@@ -8,7 +8,10 @@
         display: none;
         grid-template-columns: 1fr 1fr 1fr;
         gap: 24px;
-        margin-top: 44px;
+        
+        @media (max-width: 768px){
+            grid-template-columns: 1fr 1fr;
+        }
 
         &--is-active{
             display: grid;
@@ -26,6 +29,7 @@
         display: flex;
         justify-content: center;
 
+
         &__button{
             color:  variaveis.$corTextoSecundario;
             border: none;
@@ -38,6 +42,10 @@
 
             &--is-active{
                 border-color: variaveis.$corTextoSecundario;
+            }
+
+            @media (max-width: 768px) {
+                font-size: 16px;
             }
         }
     }
