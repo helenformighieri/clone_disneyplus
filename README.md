@@ -1,9 +1,9 @@
 # 🎬 Clone Disney+
 
-Projeto de clone da página inicial da plataforma Disney+, desenvolvido com foco em **HTML5**, **CSS3** e **responsividade**.  
-A proposta foi recriar a interface visual da plataforma, praticando posicionamento de elementos, organização do layout e fidelidade ao design original.
+Projeto de clone da página inicial da plataforma Disney+, desenvolvido com foco em **HTML5**, **CSS3** e **JavaScript** para criar uma interface interativa e responsiva.  
+A proposta foi recriar a interface visual da plataforma, praticando posicionamento de elementos, organização do layout e adicionando funcionalidades com JavaScript.
 
-> 💡 Projeto criado como desafio de front-end para reforçar a habilidade de replicar interfaces profissionais com HTML e CSS puros.
+> 💡 Projeto criado como desafio de front-end para reforçar habilidades em desenvolvimento web completo, incluindo interatividade.
 
 ---
 
@@ -18,14 +18,16 @@ A proposta foi recriar a interface visual da plataforma, praticando posicionamen
 - Interface semelhante à página inicial do Disney+
 - Layout responsivo adaptado para diferentes tamanhos de tela
 - Seções de banners, carrossel de conteúdos e rodapé
-- Foco em fidelidade visual e posicionamento com CSS
+- Interatividade com JavaScript para navegação e animações
+- Foco em fidelidade visual e usabilidade
 
 ---
 
 ## 🛠️ Tecnologias utilizadas
 
 - HTML5  
-- CSS3
+- CSS3  
+- JavaScript (ES6+)
 
 ---
 
